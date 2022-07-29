@@ -128,12 +128,20 @@ footer {
 }
 
 .giraffe {
-  background-color: #113274;
+  background-color: #483C46;
   color: #56e39f;
 }
 
 .giraffe h2 {
-  color: #ef6f6c;
+  color: #F4743B;
+}
+
+.giraffe p{
+  color: #beee62;
+}
+
+.giraffe p:first-of-type{
+  font-size: 20px;
 }
 
 .card {
