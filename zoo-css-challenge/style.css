@@ -58,13 +58,19 @@ h3 {
 
 button {
   display: inline-block;
-  border-radius: 3px;
+  font-size: 25px;
+  border-radius: 20px;
   cursor: pointer;
+  box-sizing: border-box;
   padding: 10px 20px;
-  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
-  background-color: #372772;
-  border: 2px solid black;
+  box-shadow: 0 2px 6px 0 rgba(212, 61, 61, 0.735);
+  background-color: #b3a6e2;
+  border: 3px solid black;
   color: #fff;
+}
+
+button:hover{
+  background-color: #ee20e0;
 }
 
 footer {
