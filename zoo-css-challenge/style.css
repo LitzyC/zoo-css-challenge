@@ -206,6 +206,8 @@ footer {
 .membership {
   text-align: center;
   background-color: #fffffc;
+  width: 700px;
+  margin-left: 20%;
 }
 
 .membership h2 {
