@@ -70,7 +70,7 @@ button {
   color: #fff;
 }
 
-button:hover{
+button:hover, :focus{
   background-color: #ee20e0;
 }
 
