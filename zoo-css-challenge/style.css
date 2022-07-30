@@ -232,3 +232,19 @@ footer {
   margin: 5px;
   height: 100px;
 }
+
+/*Section 10*/
+.mysection {
+  background-color: #fcd394;
+}
+
+.mysection h2{
+  color: brown;
+  text-align: center;
+}
+
+.davicho img{
+  vertical-align: top;
+  margin: 35px;
+  width: 250px;
+}
